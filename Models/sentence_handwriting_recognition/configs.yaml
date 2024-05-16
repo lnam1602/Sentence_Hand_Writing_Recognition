@@ -1,0 +1,9 @@
+batch_size: 32
+height: 64
+learning_rate: 0.0005
+max_text_length: 93
+model_path: Models/sentence_handwriting_recognition
+train_epochs: 1000
+train_workers: 20
+vocab: Galpm8PvQN:xoBKzb!eMhFZus#kJ5HCcDVY,6j"IWw?TSf4i&;E/r-RA*Od1t+( U)X29g0Lyn'q37.
+width: 1408
