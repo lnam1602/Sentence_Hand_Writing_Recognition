@@ -1,8 +1,6 @@
 import cv2
 import typing
-import shutil
 import os
-import pandas as pd
 from wordSegmentation import wordSegmentation, prepareImg
 import numpy as np
 from modules.modelconfigs import BaseModelConfigs
@@ -75,6 +73,9 @@ if __name__ == "__main__":
 
     
     # import random
+    # import pandas as pd
+    # import glob
+    # import shutil
     
     # df = pd.read_csv("Models/word_handwriting_recognition/line_val.csv").values.tolist()
     # random.shuffle(df)
